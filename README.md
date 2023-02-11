@@ -1,1 +1,1 @@
-# projecteuler
+# projecteuler.net
